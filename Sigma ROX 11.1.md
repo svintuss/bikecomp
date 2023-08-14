@@ -2,16 +2,17 @@
 
 ## The good
 Color is used to highlight parameters onscreen. Brilliant idea.
-Display is very legible even in the sun. 
+Display is easily legible even in direct sunlight. 
 
 ## The bad
-No HR zones support. HR zones not detected in workouts, HR zone can't be displayed onscreen. 
-Annoying messages: ’Searching…’ GPS fix message keeps onscreen, ’Sync. in progress’ appears randomly.
+Incomplete `.fit` supoprt. No HR zones, no lap button press. HR zones not detected in workouts, HR zone can't be displayed onscreen. 
+Annoying messages: `Searching…` GPS fix message keeps onscreen, `Sync. in progress` appears randomly.
 
 ## The ugly
 Low-quality fonts
-Beep sound
-Switching on/off takes a way too long press.
+Unrefined beep sound
+Switching on/off takes way too long
+Marketing photos are misleading - display isn't nearly that good and crisp.
 
 ----
 
@@ -61,7 +62,3 @@ There should also be a possibility to specify resting heart rate and calculate a
 
 ## Unspecified
 The manual doesn't mention how to connect the unit to PC/Mac. Simply plugging in a USB cable won't work, you have to press all the five buttons at once and select connection mode.
-
-## Overall
-Overall impression is of an unrefined product. Partly because the first unit I received had a faulty button partly because of the font and display. Marketing images looked so good on my Mac, but the actual product just didn't deliver. 
-I hope so much that Sigma would fix fonts and not by enabling anti-aliasing, but by using a good high-quality font.
