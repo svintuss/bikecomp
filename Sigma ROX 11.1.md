@@ -33,14 +33,14 @@ Lap button press is not recognised as a valid workout step termination trigger.
 ### Low-quality font
 That's the first thing you'll notice when you start the ROX 11.1. Marketing pictures are misleading, the display itself and symbols on it are simply not pleasant to look at.
 It's very good that the unit uses a non-aliased font, it's crisp and sharp. But this only works when it's a quality font. The one used on Rox 11.1 is just so badly made. 
-For example, the message that appears during power off has a crooked 'B' in 'Good Bye'. 'B', 's', 'k', 'v', bluetooth symbol - everything seems uneven, with vairable width and of different density.
-Another example: 'Settings' menu header. 't' is 3px wide, 'n' also has 3px wide legs, but 'i' is 4px wide, as well as 'g'.
-Large '6' is 1px short on the top compared to other digits.
+For example, the message that appears during power off has a [crooked 'B'](img/font_B.jpeg) in 'Good Bye'. 'B', 's', 'k', 'v', bluetooth symbol - everything seems uneven, with vairable width and of different density.
+Another example: 'Settings' menu header. ['t' is 3px wide](img/font_i.jpeg), 'n' also has 3px wide legs, but 'i' is 4px wide, as well as 'g'.
+[Large '6' is 1px short](img/font_6.jpeg) on the top compared to other digits. 
 
 ### Initial GPS fix message
 `Searching...` message is displayed forever until GPS fix is acquired and one can't get rid of it. It briefly goes away after pressing `+` or `-` button  but reappears in a couple of seconds.
 Expected behaviour should be this message going away `+` or `-` button is pressed and should only reappear as `GPS OK!` once fix is aquired.
-For now (as of V2.14) It's a VERY annoying behaviour. I literally was riding one day for almost an hour and could not see half of the screen. 
+For now (as of V2.14) It's a [VERY annoying behaviour](img/gps_message.MOV). I literally was riding one day for almost an hour and could not see half of the screen. 
 
 ### Syncing message
 `Syncing` message appears every now and then for no reason in workout mode. It does nothing but produces a distraction and hides training data from view. 
